@@ -195,5 +195,4 @@ scipy==1.14.1
 sentencepiece==0.1.99
 session-info==1.0.0
 shtab==1.6.1
-tokenizers==0.16.3
 
